@@ -1,4 +1,4 @@
-/*
+SELECT p.Name, c.Name FROM Store.Product AS p CROSS JOIN Store.Category AS c; What does the query return? /*
 ** Copyright Microsoft, Inc. 1994 - 2024
 ** All Rights Reserved.
 ** Modified by Dr. Mary Lebens to create Northwind DB.
