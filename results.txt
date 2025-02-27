@@ -1,0 +1,12 @@
+The total amount for Order 10248 is $440.00
+Returned total amount: $440.00
+Order 99999 not found.
+Returned total amount: $0.00
+Msg 137, Level 15, State 1, Server 84ab2feaa6f1, Line 2
+Must declare the scalar variable "@OrderID".
+Msg 137, Level 15, State 1, Server 84ab2feaa6f1, Line 3
+Must declare the scalar variable "@TotalAmount".
+Msg 137, Level 15, State 2, Server 84ab2feaa6f1, Line 7
+Must declare the scalar variable "@OrderID".
+Msg 137, Level 15, State 2, Server 84ab2feaa6f1, Line 11
+Must declare the scalar variable "@TotalAmount".
